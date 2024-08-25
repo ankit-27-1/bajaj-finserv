@@ -1,0 +1,9 @@
+{
+    "status": "success",
+    "user_id": "12345",
+    "college_email_id": "student@example.edu",
+    "college_roll_number": "CSE2023001",
+    "array_for_numbers": [1, 2, 3, 4, 5],
+    "array_for_alphabets": ["a", "B", "c", "D", "e"],
+    "array_with_highest_lowercase_alphabet": ["e"]
+}
